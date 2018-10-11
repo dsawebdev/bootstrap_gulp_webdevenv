@@ -1,4 +1,4 @@
-![DSA Logo](dsawebdev.github.com/bootstrap_gulp_webdevenv/dsa_logo_lion_icon.png)
+<img src="https://github.com/londonappbrewery/Images/blob/master/Xylophone.png" width="400">
 
 # bootstrap_gulp_webdevenv
 bootstrap/font-awesome web development template with gulp tasking
